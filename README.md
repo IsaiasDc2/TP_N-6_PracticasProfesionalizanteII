@@ -4,17 +4,17 @@ Trabajo práctico N°6 desarrollado con **React** y **Vite**, que explora la con
 
 ---
 
-## 🛠 Tecnologías
+##  Tecnologías
 
 | Tecnología | Descripción |
-|---|---|
+
 | [React](https://react.dev/) | Biblioteca para construir interfaces de usuario |
 | [Vite](https://vitejs.dev/) | Bundler y servidor de desarrollo ultrarrápido |
 | CSS | Estilos personalizados por componente |
 
 ---
 
-## 🚀 Instalación y uso
+##  Instalación y uso
 
 ### Requisitos previos
 
@@ -39,7 +39,7 @@ La aplicación estará disponible en `http://localhost:5173`.
 
 ---
 
-## 📦 Scripts disponibles
+## Scripts disponibles
 
 | Comando | Descripción |
 |---|---|
@@ -49,7 +49,7 @@ La aplicación estará disponible en `http://localhost:5173`.
 
 ---
 
-## 🧩 Componentes
+## Componentes
 
 ### `Header`
 Encabezado principal de la aplicación. Muestra el título y/o navegación del sitio.
@@ -74,7 +74,7 @@ Aplicación de lista de tareas con funcionalidades para agregar, marcar como com
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 tp6-react/
@@ -99,6 +99,6 @@ tp6-react/
 
 ---
 
-## 👤 Autor
+##  Autor
 
-Desarrollado como parte de la cursada — TP6 React.
+Isaias Ramses Casasola Duran 
