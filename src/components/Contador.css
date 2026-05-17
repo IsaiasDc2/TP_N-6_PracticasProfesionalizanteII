@@ -1,0 +1,53 @@
+.contador {
+  width: 300px;
+  margin: 40px auto;
+  padding: 25px;
+
+  background: linear-gradient(
+    135deg,
+    #ffffff,
+    #eaf2ff
+  );
+
+  border-radius: 15px;
+
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+  text-align: center;
+}
+
+.contador h2 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.botones button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+
+  background-color: #2a5298;
+  color: white;
+
+  font-size: 16px;
+  font-weight: bold;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.botones button:hover {
+  background-color: #1e3c72;
+}
+
+.botones button:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
