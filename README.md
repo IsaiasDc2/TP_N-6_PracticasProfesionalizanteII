@@ -14,7 +14,7 @@ Trabajo práctico N°6 desarrollado con **React** y **Vite**, que explora la con
 
 ---
 
-##  Instalación y uso
+## Instalación y uso
 
 ### Requisitos previos
 
