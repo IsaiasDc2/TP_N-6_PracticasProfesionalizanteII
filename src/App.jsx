@@ -134,29 +134,29 @@ function App() {
           </Card>
 
           <Card
-            titulo=""
-            descripcion=""
-            imagen=""
-            precio={}
+            titulo="SteelSeries Arctis Nova Pro Wireless"
+            descripcion="como la opción premium definitiva por su sistema de baterías intercambiables y sonido Hi-Res"
+            imagen="https://imgs.search.brave.com/TkQMy-DrwaD_spksF5tKe8nN4fJFWmdMW_Fde3ixbVg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1FQ/bVpYemR6eGhwNUJH/TGozR004alEuanBn"
+            precio={525.747}
           
           >
             <button>Comprar</button>
           </Card>
           <Card
-            titulo=""
-            descripcion=""
-            imagen=""
-            precio={}
+            titulo="HyperX Cloud Alpha Inalámbrico"
+            descripcion="autonomía récord de hasta 300 horas"
+            imagen="https://imgs.search.brave.com/KFw5jfdzruavIc_bvTbRr-jhK0cbvi-dsBqR4AJxQBg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bm90ZWJvb2tjaGVj/ay5vcmcvZmlsZWFk/bWluL19wcm9jZXNz/ZWRfLzgvOS9jc21f/RGVzaWduLW9mLXRo/ZS1IeXBlclgtQ0xv/dWQtQWxwaGEtMi13/aXJlbGVzcy1nYW1p/bmctaGVhZHNldF8z/NjdhMGQ0YjQ3Lmpw/Zw"
+            precio={190000}
           
           >
             <button>Comprar</button>
           </Card>
 
           <Card
-            titulo=""
-            descripcion=""
-            imagen=""
-            precio={}
+            titulo="SteelSeries Arctis Nova 5"
+            descripcion="ofrece 60 horas de batería y conectividad dual"
+            imagen="https://imgs.search.brave.com/KwtxF_GM1XSFlNKzl2selMRGcBuaaBCQ3-AnSVdffIE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L0N3/NEhrdDRHZjNtUjRy/TFFYWFN0bTcuanBn"
+            precio={257.627}
           
           >
             <button>Comprar</button>
