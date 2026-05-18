@@ -24,12 +24,16 @@ function ContactForm() {
           type="text"
           placeholder="Nombre"
           value={nombre}
-          onChange={(e) => setNombre(e.target.value)}
-        />
-        {intentoEnviar && nombre === "" && (
-          <span className="error">⚠️ El nombre es obligatorio</span>
-        )}
-
+          onChange={(e) => {
+    const valor = e.target.value;
+    if (/^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]*$/.test(valor)) {
+      setNombre(valor);
+    }
+  }}
+/>
+{intentoEnviar && nombre === "" && (
+  <span className="error">⚠️ El nombre es obligatorio</span>
+)}
         <input
           type="email"
           placeholder="Email"
