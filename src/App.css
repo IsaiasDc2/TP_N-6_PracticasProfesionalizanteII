@@ -17,7 +17,6 @@
 
 }
 
-/* RESET */
 
 *{
 margin:0;
@@ -45,7 +44,7 @@ var(--text);
 
 }
 
-/* APP */
+
 
 .app{
 
@@ -61,7 +60,6 @@ gap:
 
 }
 
-/* SECCIONES */
 
 section{
 
@@ -70,7 +68,6 @@ padding:
 
 }
 
-/* TITULOS */
 
 section h1{
 
@@ -112,7 +109,7 @@ border-radius:
 
 }
 
-/* GRID */
+
 
 .cards-container{
 
@@ -133,7 +130,7 @@ gap:
 
 }
 
-/* CONTADOR */
+
 
 #Contador{
 
@@ -151,7 +148,6 @@ var(--shadow);
 
 }
 
-/* CONTACTO */
 
 #contacto{
 
@@ -169,7 +165,7 @@ var(--shadow);
 
 }
 
-/* ANIMACION */
+
 
 section{
 
@@ -204,7 +200,7 @@ translateY(
 
 }
 
-/* MOBILE */
+
 
 @media(
 max-width:768px
