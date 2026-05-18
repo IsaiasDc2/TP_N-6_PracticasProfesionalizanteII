@@ -55,6 +55,36 @@ function App() {
             </button>
           </Card>
 
+          <Card
+            titulo="Keychron K10 HE"
+            descripcion="equilibrio general, ofrece interruptores magnéticos de efecto Hall con activación ajustable"
+            imagen="https://imgs.search.brave.com/Olgyuy93_5Fm8usM2c3cFK_wbni1i2tV5t6Y2iJ_Vi8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGUt/Z2FkZ2V0ZWVyLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNy9LZXljaHJv/bl9LMTBfSEVfUmV2/XzAwNDUtMTIwMHg5/MDQuanBn"
+            precio={183.051}
+          
+          >
+            <button>Comprar</button>
+          </Card>
+
+          <Card
+            titulo="Wooting 60HE+"
+            descripcion="tecnología magnética, destacado por su software Wootility y su formato 60% compacto"
+            imagen="https://imgs.search.brave.com/Ygk4dnQCozWKm6txCSEP8DjIEAg0ZB1Kc2XLfhQtmMs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93b290/aW5nLmlvL19uZXh0/L2ltYWdlP3VybD1o/dHRwczovL3dvb3Rp/bmctd2Vic2l0ZS5h/bXMzLmNkbi5kaWdp/dGFsb2NlYW5zcGFj/ZXMuY29tL3Byb2R1/Y3RzL2tleWJvYXJk/cy82MEhFdjIvNjBo/ZS12Ml9vZy1hbmQt/c3BsaXQud2VicCZ3/PTM4NDAmcT05MA"
+            precio={594.872}
+          
+          >
+            <button>Comprar</button>
+          </Card>
+
+          <Card
+            titulo="Mercury68 (Irok)"
+            descripcion="calidad-precio, ofrece un punto de acción mínimo de 0,004 mm, latencia ultra baja y formato 60%"
+            imagen="https://imgs.search.brave.com/v9bWhnN8GAK0QqeMvpg5w8_Z65UBCmorQ6q9Tpn7rMw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF85/MDU4ODEtTUxBOTI3/OTg5MjE0MDVfMDky/MDI1LU8ud2VicA"
+            precio={134000}
+          
+          >
+            <button>Comprar</button>
+          </Card>
+
         </div>
 
 
@@ -101,6 +131,35 @@ function App() {
             <button>
               Comprar
             </button>
+          </Card>
+
+          <Card
+            titulo=""
+            descripcion=""
+            imagen=""
+            precio={}
+          
+          >
+            <button>Comprar</button>
+          </Card>
+          <Card
+            titulo=""
+            descripcion=""
+            imagen=""
+            precio={}
+          
+          >
+            <button>Comprar</button>
+          </Card>
+
+          <Card
+            titulo=""
+            descripcion=""
+            imagen=""
+            precio={}
+          
+          >
+            <button>Comprar</button>
           </Card>
 
         </div>
