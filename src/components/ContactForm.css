@@ -164,3 +164,8 @@ font-size:1.6rem;
 }
 
 }
+.error {
+  color: #f87171;
+  font-size: 0.85rem;
+  margin-top: -10px;
+}
