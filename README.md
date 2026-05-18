@@ -107,3 +107,9 @@ Isaias Ramses Casasola Duran
 
 ## Fotos del Sitio
 ![Header](https://github.com/IsaiasDc2/TP_N-6_PracticasProfesionalizanteII/blob/33182a7ebeba0c1a618f22af1fa5d97c233a8fb7/src/imagenes/Captura%20de%20pantalla%202026-05-17%20215517.png)
+
+---
+
+![Contador](https://github.com/IsaiasDc2/TP_N-6_PracticasProfesionalizanteII/blob/0b902387a5381021610df794d3909fbfc3fc8a87/src/imagenes/Captura%20de%20pantalla%202026-05-17%20215546.png)
+
+---
