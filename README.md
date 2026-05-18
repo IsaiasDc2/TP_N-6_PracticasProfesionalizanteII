@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-La aplicación estará disponible en `http://localhost:5173`.
+La aplicación estará disponible en `https://isaiasdc2.github.io/TP_N-6_PracticasProfesionalizanteII/`.
 
 ---
 
