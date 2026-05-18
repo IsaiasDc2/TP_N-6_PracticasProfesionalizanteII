@@ -127,4 +127,8 @@ Isaias Ramses Casasola Duran
 
 ---
 
+![Footer](https://github.com/IsaiasDc2/TP_N-6_PracticasProfesionalizanteII/blob/34820935a24975b0407d5b40d3bf9609950e7d07/src/imagenes/Captura%20de%20pantalla%202026-05-17%20215926.png)
+
+---
+
 
